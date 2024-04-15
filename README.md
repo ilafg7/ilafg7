@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Alghamdi</h1>
 
 <p align="center">
-  <img src="profile-image-link" alt="Profile Picture">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdpNGN0ZzhycGJ0cjZ0aW95bHhwYzY0Y2liNW52djQzYTI5N283ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" alt="Picture">
 </p>
 
 <p align="center">Passionate about Cybersecurity, Penetration Testing, and Threat Hunting</p>
