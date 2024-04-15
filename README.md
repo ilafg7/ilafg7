@@ -1,4 +1,4 @@
-# <span style="color:#FF00FF;">Ahmed Alghamdi</span>
+# <h1 align=center>Ahmed AlGhamdi</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdpNGN0ZzhycGJ0cjZ0aW95bHhwYzY0Y2liNW52djQzYTI5N283ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" alt="Picture">
