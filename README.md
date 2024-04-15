@@ -30,6 +30,6 @@ I am a dedicated cybersecurity professional with a strong focus on penetration t
 Let's connect and collaborate on making the digital world a safer place together!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedalghamdicys/" target="_blank" rel="noopener noreferrer"></a>
-  <a href="https://twitter.com/ilafg7" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.linkedin.com/in/ahmedalghamdicys/" target="_blank" rel="noopener noreferrer">Linkedin Account!</a>
+  <a href="https://x.com/ilafg7" target="_blank" rel="noopener noreferrer">X Account!</a>
 </p>
